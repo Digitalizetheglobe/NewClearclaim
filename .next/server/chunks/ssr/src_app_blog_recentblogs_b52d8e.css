@@ -1,0 +1,24 @@
+/* [project]/src/app/blog/recentblogs.css [app-client] (css) */
+.blog-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px #0000001a;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-image {
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=src_app_blog_recentblogs_b52d8e.css.map*/
