@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import gif from "../../public/images/Old-shares-and-dividends-recovery-840-x-1378-px.gif";
+import gif from "https://clearclaim.in/images/Old-shares-and-dividends-recovery-840-x-1378-px.gif";
 import WhyClearClaim from "../app/whyclearclaim/whyclearclaim";
 import design from "../../public/gif/Untitled (450 x 420 px).gif";
 
